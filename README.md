@@ -15,7 +15,7 @@ window > package manager > add from github > this.URL
 - This manager is still in development<br>
 - Some features have minor bugs<br>
 
-<hr>
+
 
 # Development
 ### Features to be added
