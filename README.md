@@ -37,7 +37,7 @@ SaveGrid(string);
 LoadGrid(string);
 - loads the grid from a name.
 
-ReloadMap(); (has to be changed to ReloadGrid (it is NOT a map it is  A GRID))
+ReloadMap(); /*(has to be changed to ReloadGrid (it is NOT a map it is  A GRID))*/
 - Reloads the grid if something went wrong when loading it in
 - Gets called during {"LoadGrid();"}
 ```
